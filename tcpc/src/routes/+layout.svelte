@@ -182,7 +182,7 @@
 	</a>
 </div>
 
-<style>
+<style lang="postcss">
 	.active {
 		--tw-bg-opacity: 1;
 		color: rgb(216 180 254 / var(--tw-bg-opacity));
