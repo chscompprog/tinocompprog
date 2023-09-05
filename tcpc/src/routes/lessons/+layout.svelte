@@ -8,7 +8,7 @@
 <h1 class = "text-center font-bold text-8xl text-white drop-shadow-lg">Lessons</h1>
 
 <p class = "m-5 sm:mr-20 sm:ml-20 text-center font-semibold text-white text-lg sm:text-2xl drop-shadow-md"> 
-    The majority of meetings throughout the school year will be centered a around 
+    The majority of meetings throughout the school year will be centered around 
     learning about important aspects of competitive programming, from data structures to algorithms.
     In order to make sure everyone who joins our club will gain something, the club's lessons 
     are divided into 3 sections: Beginner, Intermediate, and Advanced. 
