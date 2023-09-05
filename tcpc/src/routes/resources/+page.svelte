@@ -254,7 +254,7 @@
 	</ul>
 </div>
 
-<style lang="postcss">
+<style>
 	.easeAni {
 		cursor: pointer;
 		-webkit-transition-property: all;
