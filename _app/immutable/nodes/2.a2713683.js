@@ -1,4 +1,4 @@
-import{s as K,c as M,u as N,g as O,d as Q,e as R}from"../chunks/scheduler.e9b79cf6.js";import{S as W,i as X,g as i,s as j,h as d,j as k,f as s,c as A,x as $,l as J,k as c,y as q,a as _,z as v,d as Y,t as Z}from"../chunks/index.b14fdf6f.js";import{p as ee}from"../chunks/stores.a159493e.js";function te(a){let n,x,o,y="Lessons",C,r,g=`The majority of meetings throughout the school year will be centered a around \r
+import{s as K,c as M,u as N,g as O,d as Q,e as R}from"../chunks/scheduler.e9b79cf6.js";import{S as W,i as X,g as i,s as j,h as d,j as k,f as s,c as A,x as $,l as J,k as c,y as q,a as _,z as v,d as Y,t as Z}from"../chunks/index.b14fdf6f.js";import{p as ee}from"../chunks/stores.f170436e.js";function te(a){let n,x,o,y="Lessons",C,r,g=`The majority of meetings throughout the school year will be centered a around \r
     learning about important aspects of competitive programming, from data structures to algorithms.\r
     In order to make sure everyone who joins our club will gain something, the club's lessons \r
     are divided into 3 sections: Beginner, Intermediate, and Advanced. \r
