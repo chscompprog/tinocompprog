@@ -56,9 +56,9 @@
 <div class="infoBlock my-[50px] bg-purple-200 shadow-lg">
 	<h1 class=" text-5xl font-bold m-5">Why Join</h1>
 	<p class="sm:px-10 m-5 text-lg font-semibold">
-		Joining Tino Competitive Programming is a great oppurtunity that brings many benefits. Our club
+		Joining Tino Competitive Programming is a great opportunity that brings many benefits. Our club
 		helps prepare students for school courses such as Intro to Java and APCS, as well as learning
-		beyond the school's scope. Competitive Programming is a great was to boost college applications
+		beyond the school's scope. Competitive Programming is a fantastic way to boost college applications
 		and gain skills for coding interviews. You will be able to greatly improve your programming
 		speed, knowledge of useful algorithms and data structures, logical thinking and problem solving.
 		It will teach you a lot about programming in general and will put you on a path towards success
