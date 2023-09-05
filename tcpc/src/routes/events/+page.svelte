@@ -38,52 +38,52 @@
 <div class="outer">
 	<h1 class="text-center text-white drop-shadow-lg text-7xl font-bold mt-3">Prizes</h1>
 	<div
-		class="easeAni sm:ml-[12%] mt-12 rounded-md bg-purple-200 shadow-lg sm:float-left text-center w-auto mx-8 p-4 sm:w-[35%]"
+		class="easeAni lg:ml-[12%] mt-12 rounded-md bg-purple-200 shadow-lg lg:float-left text-center w-auto mx-6 p-4 lg:w-[35%]"
 	>
 		<h1 class="text-5xl m-5 font-bold">Beginner</h1>
 		<div class="inner-div">
 			<div class="flex list-none text-center text-3xl items-center align-middle font-semibold">
 				<img src={first} class="w-10 m-3" />
-				<h1>First: $40</h1>
+				<h1>First: $15</h1>
 			</div>
 		</div>
 		<br />
 		<div class="inner-div">
 			<div class="flex list-none text-center text-3xl items-center align-middle font-semibold">
 				<img src={second} class="w-10 m-3" />
-				<h1>Second: $30</h1>
+				<h1>Second: $10</h1>
 			</div>
 		</div>
 		<br />
 		<div class="inner-div">
 			<div class="flex list-none text-center text-3xl items-center align-middle font-semibold">
 				<img src={third} class="w-10 m-3" />
-				<h1>Third: $20</h1>
+				<h1>Third: $5</h1>
 			</div>
 		</div>
 	</div>
 	<div
-		class="easeAni sm:mr-[12%] mt-12 rounded-md bg-purple-200 shadow-lg sm:float-right text-center w-auto mx-8 p-4 sm:w-[35%]"
+		class="easeAni lg:mr-[12%] mt-12 rounded-md bg-purple-200 shadow-lg lg:float-right text-center w-auto mx-6 p-4 lg:w-[35%]"
 	>
 		<h1 class="text-5xl m-5 font-bold">Advanced</h1>
 		<div class="inner-div">
 			<div class="flex list-none text-center text-3xl items-center align-middle font-semibold">
 				<img src={first} class="w-10 m-3" />
-				<h1>First: $150</h1>
+				<h1>First: $20</h1>
 			</div>
 		</div>
 		<br />
 		<div class="inner-div">
 			<div class="flex list-none text-center text-3xl items-center align-middle font-semibold">
 				<img src={second} class="w-10 m-3" />
-				<h1>Second: $100</h1>
+				<h1>Second: $15</h1>
 			</div>
 		</div>
 		<br />
 		<div class="inner-div">
 			<div class="flex list-none text-center text-3xl items-center align-middle font-semibold">
 				<img src={third} class="w-10 m-3" />
-				<h1>Third: $50</h1>
+				<h1>Third: $10</h1>
 			</div>
 		</div>
 	</div>
@@ -92,11 +92,7 @@
 <div
 	class="easeAni mr-[10%] ml-[10%] w-[80%] rounded-md bg-purple-200 shadow-lg text-center m-10 font-semibold text-xl p-3"
 >
-	<h1 class="m-2">
-		All participants: free access to Interview Cake's coding interview prep course + 1 year upgrades
-		to Taskade's Starter plan
-	</h1>
-	<h1 class="m-2">Raffle for a $45 gift code for the Desmos store</h1>
+	<h1 class="m-2">All participants: you get to experience competitive programming!</h1>
 </div>
 
 <h1 class="text-center text-white text-6xl font-bold mb-7 mt-3 drop-shadow-lg">Sponsers</h1>
