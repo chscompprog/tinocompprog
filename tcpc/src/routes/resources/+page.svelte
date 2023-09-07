@@ -1,6 +1,6 @@
 <div style="margin-top: 120px" />
 
-<div class="ms-4 mt-4">
+<div class="mt-4">
 	<h2 class="text-center text-6xl font-bold text-white drop-shadow-lg">Resources</h2>
 	<br />
 

@@ -192,7 +192,7 @@
 		color: rgb(15 23 42 / var(--tw-text-opacity));
 	}
 	.a {
-		z-index: 11;
+		z-index: 110;
 		width: 98%;
 		margin: 1%;
 	}
