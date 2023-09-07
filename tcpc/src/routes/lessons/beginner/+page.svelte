@@ -4,8 +4,8 @@
 </h1>
 
 <p class = "m-5 sm:mr-40 sm:ml-40 text-center font-semibold text-white text-lg sm:text-2xl drop-shadow-md drop-shadow-md"> 
-    For students completely new to programming
-    We start with fundamental Java programming concepts, then dive into beginning CP topics and beginner problems
+    For students completely new to programming.
+    We start with fundamental Java programming concepts, then dive into beginning CP topics and beginner problems.
     <br>
     Goal: beginner -> USACO Bronze level
 </p>

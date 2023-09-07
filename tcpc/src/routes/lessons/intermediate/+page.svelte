@@ -3,8 +3,8 @@
 </h1>
 
 <p class = "m-5 sm:mr-40 sm:ml-40 text-center font-semibold text-white text-lg sm:text-2xl drop-shadow-md"> 
-    For students comfortable with basic programming but new to CP specific topics
-    We start with fundamentals of CP and basic problem sets, then move to more advanced algorithms and data structures
+    For students comfortable with basic programming but new to CP-specific topics.
+    We start with fundamentals of CP and basic problem sets, then move to more advanced algorithms and data structures.
     <br>
     Goal: novice competitive programmer -> USACO Silver level   
 </p>

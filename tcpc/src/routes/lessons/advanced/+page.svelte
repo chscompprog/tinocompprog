@@ -3,8 +3,8 @@
 </h1>
 
 <p class = "m-5 sm:mr-40 sm:ml-40 text-center font-semibold text-white text-lg sm:text-2xl"> 
-    For more experienced students who are already comfortable and experienced with CP and have done contests before
-    We start off right away with more complex topics and problems
+    For more experienced students who are already comfortable and experienced with CP and have done contests before.
+    We start off right away with more complex topics and problems.
     <br>
     Goal: USACO Silver level -> Gold/Platinum
 

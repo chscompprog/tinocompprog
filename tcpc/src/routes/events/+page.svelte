@@ -15,14 +15,14 @@
 	TurtleCodes
 </h1>
 
-<p class="text-center text-4xl font-semibold m-3 text-white drop-shadow-lg">9/2 10 AM - 12 PM</p>
+<p class="text-center text-4xl font-semibold m-3 text-white drop-shadow-lg">9/29 to 10/6</p>
 
 <div class="infoBlock bg-purple-200 shadow-lg">
 	<h1 class=" text-5xl font-bold m-5">What is TurtleCodes</h1>
 
 	<p class="sm:px-10 m-5 text-lg font-semibold">
 		TurtleCodes is a competitive programming competition hosted by Tino Competitive Programming
-		where contestants solve a series of challenging problems, relying on there skills and knowledge
+		where contestants solve a series of challenging problems, relying on their skills and knowledge
 		of programming. The competition will be split into 2 divisions, Beginner and Advanced.
 	</p>
 </div>
@@ -31,7 +31,7 @@
 	<h1 class=" text-4xl font-bold m-5">Where and when?</h1>
 
 	<p class="sm:px-10 m-5 text-xl font-semibold">
-		TurtleCodes will be held on Codeforces on Saturday, September 2, from 10 AM to 12 PM.
+		TurtleCodes will be held on Codeforces. Participants can take the contest on any two hours between Friday, September 29, and Friday, October 6.
 	</p>
 </div>
 
