@@ -3,6 +3,12 @@
 	import { page } from '$app/stores';
 	import aaron from '$lib/aaron.png';
 	import katie from '$lib/katie.png';
+	import aakash from '$lib/aakash1.png';
+	import alex from '$lib/alex.jpg';
+	import martin from '$lib/martin.jpg';
+	import sneha from '$lib/sneha.jpeg';
+	import richard from '$lib/richard.jpg';
+
 	$: path = $page.url.pathname;
 
 	let showMenu = false;
@@ -48,7 +54,7 @@
 			<p
 				class="absolute left-[13rem] top-[0rem] lg:left-[14.5rem] lg:top-[2.5rem] text-[11.5px] p-1 lg:text-md text-center overflow-auto"
 			>
-				hi, I’m Katie! I’m a senior and USACO Silver, and I’m also interested in cybersecurity and
+				Hi, I’m Katie! I’m a senior and USACO Silver, and I’m also interested in cybersecurity and
 				CTFs (Capture the Flag competitions). I enjoy reading (mostly fantasy and sci-fi) and arts
 				and crafts.
 			</p>
@@ -80,7 +86,7 @@
 		<h1
 			class="absolute left-[4rem] top-[15rem] lg:left-[5rem] lg:top-[16.5rem] text-2xl font-semibold text-center"
 		>
-			Richard Zhang <br /> Mentor
+			Jolie <br /> Vice President
 		</h1>
 		<img
 			src={logo}
@@ -96,18 +102,18 @@
 			<p
 				class="absolute left-[13rem] top-[0rem] lg:left-[14.5rem] lg:top-[2.5rem] text-[11.5px] p-1 lg:text-md text-center overflow-auto"
 			>
-				Hello my name is richard Hello my name is richard Hello my name is richard Hello my name is
-				richard Hello my name is richard Hello my name is richard Hello my name is richard Hello my
-				name is richard
+				I am a junior at Cupertino High School and in USACO Gold. In my free time I enjoy playing
+				Tetris.
 			</p>
 		</div>
 		<h1
 			class="absolute left-[4rem] top-[15rem] lg:left-[5rem] lg:top-[16.5rem] text-2xl font-semibold text-center"
 		>
-			Richard Zhang <br /> Mentor
+			Aakash Gokhale
+			<br /> Treasurer / Event Lead
 		</h1>
 		<img
-			src={logo}
+			src={aakash}
 			alt="hi"
 			class="absolute h-[15rem] lg:h-[17rem] rounded-full border-8 border-purple-200"
 		/>
@@ -120,18 +126,17 @@
 			<p
 				class="absolute left-[13rem] top-[0rem] lg:left-[14.5rem] lg:top-[2.5rem] text-[11.5px] p-1 lg:text-md text-center overflow-auto"
 			>
-				Hello my name is richard Hello my name is richard Hello my name is richard Hello my name is
-				richard Hello my name is richard Hello my name is richard Hello my name is richard Hello my
-				name is richard
+				Hi my name is Alexander Du! I'm a senior and USACO platinum. I enjoy volleyball, video
+				games, new AI models, and hanging out with friends
 			</p>
 		</div>
 		<h1
 			class="absolute left-[4rem] top-[15rem] lg:left-[5rem] lg:top-[16.5rem] text-2xl font-semibold text-center"
 		>
-			Richard Zhang <br /> Mentor
+			Alexander Du <br /> Secretary / Event Lead
 		</h1>
 		<img
-			src={logo}
+			src={alex}
 			alt="hi"
 			class="absolute h-[15rem] lg:h-[17rem] rounded-full border-8 border-purple-200"
 		/>
@@ -144,9 +149,8 @@
 			<p
 				class="absolute left-[13rem] top-[0rem] lg:left-[14.5rem] lg:top-[2.5rem] text-[11.5px] p-1 lg:text-md text-center overflow-auto"
 			>
-				Hello my name is richard Hello my name is richard Hello my name is richard Hello my name is
-				richard Hello my name is richard Hello my name is richard Hello my name is richard Hello my
-				name is richard
+				Hi my name is Richard! I'm a Junior at Tino and I'm currently Gold in both USACO and
+				Valorant. My hobbies include video games, tennis, web dev, and machine learning!
 			</p>
 		</div>
 		<h1
@@ -155,7 +159,7 @@
 			Richard Zhang <br /> Mentor
 		</h1>
 		<img
-			src={logo}
+			src={richard}
 			alt="hi"
 			class="absolute h-[15rem] lg:h-[17rem] rounded-full border-8 border-purple-200"
 		/>
@@ -168,18 +172,17 @@
 			<p
 				class="absolute left-[13rem] top-[0rem] lg:left-[14.5rem] lg:top-[2.5rem] text-[11.5px] p-1 lg:text-md text-center overflow-auto"
 			>
-				Hello my name is richard Hello my name is richard Hello my name is richard Hello my name is
-				richard Hello my name is richard Hello my name is richard Hello my name is richard Hello my
-				name is richard
+				Hello my name is Sneha and I'm a Senior. I love problem solving , coding, playing
+				basketball, and chocolate!
 			</p>
 		</div>
 		<h1
 			class="absolute left-[4rem] top-[15rem] lg:left-[5rem] lg:top-[16.5rem] text-2xl font-semibold text-center"
 		>
-			Richard Zhang <br /> Mentor
+			Sneha <br /> Mentor
 		</h1>
 		<img
-			src={logo}
+			src={sneha}
 			alt="hi"
 			class="absolute h-[15rem] lg:h-[17rem] rounded-full border-8 border-purple-200"
 		/>
@@ -192,18 +195,17 @@
 			<p
 				class="absolute left-[13rem] top-[0rem] lg:left-[14.5rem] lg:top-[2.5rem] text-[11.5px] p-1 lg:text-md text-center overflow-auto"
 			>
-				Hello my name is richard Hello my name is richard Hello my name is richard Hello my name is
-				richard Hello my name is richard Hello my name is richard Hello my name is richard Hello my
-				name is richard
+				Hi everyone. I'm Martin, your PR Manager, and I'm absolutely obsessed with physics for
+				absolutely no reason.
 			</p>
 		</div>
 		<h1
 			class="absolute left-[4rem] top-[15rem] lg:left-[5rem] lg:top-[16.5rem] text-2xl font-semibold text-center"
 		>
-			Richard Zhang <br /> Mentor
+			Martin Lee <br /> PR
 		</h1>
 		<img
-			src={logo}
+			src={martin}
 			alt="hi"
 			class="absolute h-[15rem] lg:h-[17rem] rounded-full border-8 border-purple-200"
 		/>
