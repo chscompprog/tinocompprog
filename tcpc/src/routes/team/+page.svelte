@@ -78,7 +78,7 @@
 			<p
 				class="absolute left-[13rem] top-[0rem] lg:left-[14.5rem] lg:top-[2.5rem] text-[11.5px] p-1 lg:text-md text-center overflow-auto"
 			>
-				Hello my name is richard Hello my name is richard Hello my name is richard Hello my name is
+				Hello, my name is richard Hello my name is richard Hello my name is richard Hello my name is
 				richard Hello my name is richard Hello my name is richard Hello my name is richard Hello my
 				name is richard
 			</p>
@@ -126,7 +126,7 @@
 			<p
 				class="absolute left-[13rem] top-[0rem] lg:left-[14.5rem] lg:top-[2.5rem] text-[11.5px] p-1 lg:text-md text-center overflow-auto"
 			>
-				Hi my name is Alexander Du! I'm a senior and USACO platinum. I enjoy volleyball, video
+				Hi, my name is Alexander Du! I'm a senior and USACO platinum. I enjoy volleyball, video
 				games, new AI models, and hanging out with friends
 			</p>
 		</div>
@@ -149,7 +149,7 @@
 			<p
 				class="absolute left-[13rem] top-[0rem] lg:left-[14.5rem] lg:top-[2.5rem] text-[11.5px] p-1 lg:text-md text-center overflow-auto"
 			>
-				Hi my name is Richard! I'm a Junior at Tino and I'm currently Gold in both USACO and
+				Hi, my name is Richard! I'm a Junior at Tino and I'm currently Gold in both USACO and
 				Valorant. My hobbies include video games, tennis, web dev, and machine learning!
 			</p>
 		</div>
