@@ -8,7 +8,7 @@
 	import martin from '$lib/martin.jpg';
 	import sneha from '$lib/sneha.jpeg';
 	import richard from '$lib/richard.jpg';
-
+	import jolie from '$lib/jolie.png';
 	$: path = $page.url.pathname;
 
 	let showMenu = false;
@@ -76,20 +76,19 @@
 			class=" bg-purple-200 rounded-md w-[20rem] lg:w-[23rem] md:w-[22rem] h-[13rem] lg:h-[15rem] absolute top-24 left-9"
 		>
 			<p
-				class="absolute left-[13rem] top-[0rem] lg:left-[14.5rem] lg:top-[2.5rem] text-[11.5px] p-1 lg:text-md text-center overflow-auto"
+				class="absolute left-[13rem] top-[0rem] lg:left-[14.5rem] lg:top-[2.5rem] text-[12px] p-1 lg:text-md text-center overflow-auto"
 			>
-				Hello, my name is richard Hello my name is richard Hello my name is richard Hello my name is
-				richard Hello my name is richard Hello my name is richard Hello my name is richard Hello my
-				name is richard
+				Hey, I'm Jolie! I'm a senior, in USACO gold, and an avid cat lover. I also love game
+				development, light pink, and cute socks.
 			</p>
 		</div>
 		<h1
 			class="absolute left-[4rem] top-[15rem] lg:left-[5rem] lg:top-[16.5rem] text-2xl font-semibold text-center"
 		>
-			Jolie <br /> Vice President
+			Jolie Han <br /> Vice President
 		</h1>
 		<img
-			src={logo}
+			src={jolie}
 			alt="hi"
 			class="absolute h-[15rem] lg:h-[17rem] rounded-full border-8 border-purple-200"
 		/>
@@ -179,7 +178,7 @@
 		<h1
 			class="absolute left-[4rem] top-[15rem] lg:left-[5rem] lg:top-[16.5rem] text-2xl font-semibold text-center"
 		>
-			Sneha <br /> Mentor
+			Sneha Muppalla <br /> Mentor
 		</h1>
 		<img
 			src={sneha}
