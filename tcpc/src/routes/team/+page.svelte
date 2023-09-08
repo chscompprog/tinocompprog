@@ -18,6 +18,8 @@
 	}
 </script>
 
+<svelte:head><title>CHS Comp Prog | Team</title></svelte:head>
+
 <div class="mt-[120px]" />
 
 <h1 class="text-center font-bold text-8xl mb-10 text-white drop-shadow-lg">Officers</h1>

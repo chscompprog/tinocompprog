@@ -1,3 +1,5 @@
+<svelte:head><title>CHS Comp Prog | Resources</title></svelte:head>
+
 <div style="margin-top: 120px" />
 
 <div class="mt-4">

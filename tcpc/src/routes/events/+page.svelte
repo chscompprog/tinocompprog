@@ -5,6 +5,8 @@
 	import third from '$lib/bronze.png';
 </script>
 
+<svelte:head><title>CHS Comp Prog | Events</title></svelte:head>
+
 <div style="margin-top: 120px" />
 
 <img
@@ -31,7 +33,8 @@
 	<h1 class=" text-4xl font-bold m-5">Where and when?</h1>
 
 	<p class="sm:px-10 m-5 text-xl font-semibold">
-		TurtleCodes will be held on Codeforces. Participants can take the contest on any two hours between Friday, September 29, and Friday, October 6.
+		TurtleCodes will be held on Codeforces. Participants can take the contest on any two hours
+		between Friday, September 29, and Friday, October 6.
 	</p>
 </div>
 

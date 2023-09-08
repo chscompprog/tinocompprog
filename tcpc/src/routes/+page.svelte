@@ -7,6 +7,8 @@
 	let screenSize;
 </script>
 
+<svelte:head><title>CHS Comp Prog</title></svelte:head>
+
 <svelte:window bind:innerWidth={screenSize} />
 
 <div style="position:relative;text-align:center;">
@@ -58,11 +60,11 @@
 	<p class="sm:px-10 m-5 text-lg font-semibold">
 		Joining Tino Competitive Programming is a great opportunity that brings many benefits. Our club
 		helps prepare students for school courses such as Intro to Java and APCS, as well as learning
-		beyond the school's scope. Competitive Programming is a fantastic way to boost college applications
-		and gain skills for coding interviews. You will be able to greatly improve your programming
-		speed, knowledge of useful algorithms and data structures, logical thinking and problem solving.
-		It will teach you a lot about programming in general and will put you on a path towards success
-		in your future CS or STEM endeavors.
+		beyond the school's scope. Competitive Programming is a fantastic way to boost college
+		applications and gain skills for coding interviews. You will be able to greatly improve your
+		programming speed, knowledge of useful algorithms and data structures, logical thinking and
+		problem solving. It will teach you a lot about programming in general and will put you on a path
+		towards success in your future CS or STEM endeavors.
 	</p>
 </div>
 
