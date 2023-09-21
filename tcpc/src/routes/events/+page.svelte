@@ -19,6 +19,15 @@
 
 <p class="text-center text-4xl font-semibold m-3 text-white drop-shadow-lg">9/29 to 10/6</p>
 
+<div class="infoBlock">
+	<h1 class=" text-5xl font-semibold m-5">Registration</h1>
+	<a href="https://tinyurl.com/turtlecodes2023" target="_blank">
+		<h1 class=" text-5xl font-semibold m-5 hover:text-blue-500 easeAni">
+			https://tinyurl.com/turtlecodes2023
+		</h1>
+	</a>
+</div>
+
 <div class="infoBlock bg-purple-200 shadow-lg">
 	<h1 class=" text-5xl font-bold m-5">What is TurtleCodes</h1>
 
@@ -39,11 +48,13 @@
 </div>
 
 <div class="outer">
-	<h1 class="text-center text-white drop-shadow-lg text-7xl font-bold mt-3">Prizes</h1>
+	<h1 class="text-center text-white drop-shadow-lg text-7xl font-bold mt-6">Prizes</h1>
 	<div
 		class="easeAni lg:ml-[12%] mt-12 rounded-md bg-purple-200 shadow-lg lg:float-left text-center w-auto mx-6 p-4 lg:w-[35%]"
 	>
 		<h1 class="text-5xl m-5 font-bold">Beginner</h1>
+
+		<h1 class="text-2xl m-5 font-bold">No Competitive Programming Experience</h1>
 		<div class="inner-div">
 			<div class="flex list-none text-center text-3xl items-center align-middle font-semibold">
 				<img src={first} class="w-10 m-3" />
@@ -69,6 +80,8 @@
 		class="easeAni lg:mr-[12%] mt-12 rounded-md bg-purple-200 shadow-lg lg:float-right text-center w-auto mx-6 p-4 lg:w-[35%]"
 	>
 		<h1 class="text-5xl m-5 font-bold">Advanced</h1>
+		<h1 class="text-2xl m-5 font-bold">Have Competitive Programming Experience</h1>
+
 		<div class="inner-div">
 			<div class="flex list-none text-center text-3xl items-center align-middle font-semibold">
 				<img src={first} class="w-10 m-3" />

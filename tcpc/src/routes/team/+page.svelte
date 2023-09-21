@@ -44,7 +44,7 @@
 		</h1>
 		<img
 			src={aaron}
-			alt="hi"
+			alt="Aaron Cu"
 			class="absolute h-[15rem] lg:h-[17rem] rounded-full border-8 border-purple-200"
 		/>
 	</div>
@@ -68,7 +68,7 @@
 		</h1>
 		<img
 			src={katie}
-			alt="hi"
+			alt="Katie Min"
 			class="absolute h-[15rem] lg:h-[17rem] rounded-full border-8 border-purple-200"
 		/>
 	</div>
@@ -91,7 +91,7 @@
 		</h1>
 		<img
 			src={jolie}
-			alt="hi"
+			alt="Jolie Han"
 			class="absolute h-[15rem] lg:h-[17rem] rounded-full border-8 border-purple-200"
 		/>
 	</div>
@@ -115,7 +115,7 @@
 		</h1>
 		<img
 			src={aakash}
-			alt="hi"
+			alt="Aakash Gokhale"
 			class="absolute h-[15rem] lg:h-[17rem] rounded-full border-8 border-purple-200"
 		/>
 	</div>
@@ -138,7 +138,7 @@
 		</h1>
 		<img
 			src={alex}
-			alt="hi"
+			alt="Alexander Du"
 			class="absolute h-[15rem] lg:h-[17rem] rounded-full border-8 border-purple-200"
 		/>
 	</div>
@@ -161,7 +161,7 @@
 		</h1>
 		<img
 			src={richard}
-			alt="hi"
+			alt="Richard Zhang"
 			class="absolute h-[15rem] lg:h-[17rem] rounded-full border-8 border-purple-200"
 		/>
 	</div>
@@ -184,7 +184,7 @@
 		</h1>
 		<img
 			src={sneha}
-			alt="hi"
+			alt="Sneha Muppalla"
 			class="absolute h-[15rem] lg:h-[17rem] rounded-full border-8 border-purple-200"
 		/>
 	</div>
@@ -207,7 +207,7 @@
 		</h1>
 		<img
 			src={martin}
-			alt="hi"
+			alt="Martin Lee"
 			class="absolute h-[15rem] lg:h-[17rem] rounded-full border-8 border-purple-200"
 		/>
 	</div>
