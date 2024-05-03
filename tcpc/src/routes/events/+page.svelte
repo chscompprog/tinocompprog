@@ -14,27 +14,30 @@
 	class="easeAni w-[90%] mx-[5%] sm:w-[80%] sm:mx-[10%] md:w-[70%] md:mx-[15%] lg:w-[50%] lg:mx-[25%] xl:w-[30%] xl:mx-[35%]"
 />
 <h1 class="text-center text-6xl sm:text-8xl font-bold m-10 text-white drop-shadow-lg">
-	TurtleCodes
+	Cupertino Informatics Tournament
 </h1>
 
-<p class="text-center text-4xl font-semibold m-3 text-white drop-shadow-lg">9/29 to 10/6</p>
+<p class="text-center text-4xl font-semibold m-3 text-white drop-shadow-lg">
+	Date: 5/25<br />Time: TBD
+</p>
 
 <div class="infoBlock">
 	<h1 class=" text-5xl font-semibold m-5">Registration</h1>
-	<a href="https://tinyurl.com/turtlecodes2023" target="_blank">
-		<h1 class=" text-5xl font-semibold m-5 hover:text-blue-500 easeAni">
-			https://tinyurl.com/turtlecodes2023
-		</h1>
+	<a
+		href="https://docs.google.com/forms/d/e/1FAIpQLScS6S-dDwMuzdUsCH9OE7-LIcuD5DYt7OfLHTqai6tQ-gYAqw/viewform"
+		target="_blank"
+	>
+		<h1 class=" text-5xl font-semibold m-5 hover:text-blue-500 easeAni">Link</h1>
 	</a>
 </div>
 
 <div class="infoBlock bg-purple-200 shadow-lg">
-	<h1 class=" text-5xl font-bold m-5">What is TurtleCodes</h1>
+	<h1 class=" text-5xl font-bold m-5">What is the Cupertino Informatics Tournament</h1>
 
 	<p class="sm:px-10 m-5 text-lg font-semibold">
-		TurtleCodes is a competitive programming competition hosted by Tino Competitive Programming
-		where contestants solve a series of challenging problems, relying on their skills and knowledge
-		of programming. The competition will be split into 2 divisions, Beginner and Advanced.
+		Cupertino Informatics Tournament is a competitive programming competition hosted by Tino
+		Competitive Programming where contestants solve a series of challenging coding problems, relying
+		on their skills and knowledge of programming. The competition will be individual.
 	</p>
 </div>
 
@@ -42,14 +45,14 @@
 	<h1 class=" text-4xl font-bold m-5">Where and when?</h1>
 
 	<p class="sm:px-10 m-5 text-xl font-semibold">
-		TurtleCodes will be held on Codeforces. Participants can take the contest on any two hours
-		between Friday, September 29, and Friday, October 6.
+		Cupertino Informatics Tournament will be held on Codeforces, on 5/25/2024. The specific time is
+		still to be determined.
 	</p>
 </div>
 
 <div class="outer">
 	<h1 class="text-center text-white drop-shadow-lg text-7xl font-bold mt-6">Prizes</h1>
-	<div
+	<!-- <div
 		class="easeAni lg:ml-[12%] mt-12 rounded-md bg-purple-200 shadow-lg lg:float-left text-center w-auto mx-6 p-4 lg:w-[35%]"
 	>
 		<h1 class="text-5xl m-5 font-bold">Beginner</h1>
@@ -102,23 +105,82 @@
 				<h1>Third: $10</h1>
 			</div>
 		</div>
+	</div> -->
+
+	<div class="infoBlock bg-purple-200 shadow-lg">
+		<div class="inner-div">
+			<div class="flex list-none text-center text-3xl items-center align-middle font-semibold">
+				<img src={first} class="w-10 m-3" />
+				<h1>First: TBD</h1>
+			</div>
+		</div>
+		<br />
+		<div class="inner-div">
+			<div class="flex list-none text-center text-3xl items-center align-middle font-semibold">
+				<img src={second} class="w-10 m-3" />
+				<h1>Second: TBD</h1>
+			</div>
+		</div>
+		<br />
+		<div class="inner-div">
+			<div class="flex list-none text-center text-3xl items-center align-middle font-semibold">
+				<img src={third} class="w-10 m-3" />
+				<h1>Third: TBD</h1>
+			</div>
+		</div>
 	</div>
 </div>
 
 <div
 	class="easeAni mr-[10%] ml-[10%] w-[80%] rounded-md bg-purple-200 shadow-lg text-center m-10 font-semibold text-xl p-3"
 >
-	<h1 class="m-2">All participants: you get to experience competitive programming!</h1>
+	<h1 class="m-4 text-3xl">All participants: TBD</h1>
 </div>
 
-<h1 class="text-center text-white text-6xl font-bold mb-7 mt-3 drop-shadow-lg">Sponsers</h1>
-<a class=" text-center align-middle" href="https://www.correlation-one.com/" target="_blank">
+<h1 class="text-center text-white text-6xl font-bold mb-7 mt-3 drop-shadow-lg">Sponsors</h1>
+<a class=" text-center align-middle" href="https://balsamiq.com/" target="_blank">
 	<div
-		class="easeAni m-10 mx-auto w-[80%] sm:w-[50%] sm:mx[25%] p-3 rounded-md bg-purple-200 shadow-lg text-center items-center"
+		class="easeAni m-10 mx-auto w-[80%] sm:w-[30%] sm:mx[25%] p-3 rounded-md bg-purple-200 shadow-lg text-center items-center"
 	>
 		<img
-			src="https://media.discordapp.net/attachments/930578418859397123/1118402967947722864/c1logo_color.png?width=1923&amp;height=170"
-			alt="correlation-one"
+			src="https://cdn.uc.assets.prezly.com/72029d99-e7e9-4896-b41c-633bd8527b97/logo-balsamiq.png"
+			alt="Balsamiq"
+			class="w-[100%] p-5"
+		/>
+	</div>
+</a>
+
+<a class=" text-center align-middle" href="https://gen.xyz/" target="_blank">
+	<div
+		class="easeAni m-10 mx-auto w-[80%] sm:w-[30%] sm:mx[25%] p-3 rounded-md bg-purple-200 shadow-lg text-center items-center"
+	>
+		<img
+			src="https://gen.xyz/wp-content/themes/xyz/images/xyz-white-logo.svg"
+			alt="Balsamiq"
+			class="w-[100%] p-5"
+		/>
+	</div>
+</a>
+
+<a class=" text-center align-middle" href="https://www.desmos.com/" target="_blank">
+	<div
+		class="easeAni m-10 mx-auto w-[80%] sm:w-[30%] sm:mx[25%] p-3 rounded-md bg-purple-200 shadow-lg text-center items-center"
+	>
+		<img
+			src="https://media.licdn.com/dms/image/D5612AQEQZTpOd8OlNQ/article-cover_image-shrink_600_2000/0/1676581819022?e=2147483647&v=beta&t=RkYkMz8xCYsVoEQApDv2U0twp3QQkI34RVic0P7_Ejc"
+			alt="Balsamiq"
+			class="w-[100%] p-5"
+		/>
+	</div>
+</a>
+
+<a class=" text-center align-middle" href="https://wolfram.com/" target="_blank">
+	<div
+		class="easeAni m-10 mx-auto w-[80%] sm:w-[30%] sm:mx[25%] p-3 rounded-md bg-purple-200 shadow-lg text-center items-center"
+	>
+		<img
+			src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/WolframCorporateLogo.svg/1280px-WolframCorporateLogo.svg.png"
+			alt="Balsamiq"
 			class="w-[100%] p-5"
 		/>
 	</div>
